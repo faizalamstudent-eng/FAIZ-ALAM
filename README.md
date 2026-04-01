@@ -1,6 +1,6 @@
-# Hi, I'm Faiz Alam 👋
+# Hi, I'm Faiz Rahmani 👋
 
-> CS Student | DSA with C++ | Building problem-solving skills one question at a time
+> BCA Student @ S-VYASA University, Bengaluru | DSA with C++ | Exploring AI, App Dev & Python | Future Tech Founder in Making
 
 ---
 
@@ -37,7 +37,7 @@
 
 ## 📬 Connect with me
 
-[![LinkedIn](https://www.linkedin.com/in/faiz-rahmani/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Faiz%20Rahmani-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/faiz-rahmani)
 
 ---
 
